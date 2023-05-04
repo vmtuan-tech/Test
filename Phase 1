@@ -1,0 +1,3 @@
+x = float(input("Nhập số cần tính bình phương: "))
+print("Bình phương của", x, "là", x**2)
+print("Lập phương của", x, "là", x**3)
